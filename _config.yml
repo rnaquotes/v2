@@ -1,5 +1,5 @@
 # Blog settings
-permalink: /blog/:title
+permalink: /v2/:title
 
 
 # My variables
